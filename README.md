@@ -1,12 +1,25 @@
+# [Stellar Admin Dashboard](https://www.bootstrapdash.com/product/stellar-free/?ref=appseed)
+
+**[Stellar admin template](https://www.bootstrapdash.com/product/stellar-free/?ref=appseed)** is completely based on the latest version of Bootstrap 4. Stellar Admin is designed to reflect the simplicity and svelte of the components and UI elements and coded to perfection with well-organized code. This makes it easy to change its looks to anything that you desire on your admin panel. Stellar Admin is a perfect pick to create any kind of simple or complex backend applications or any other web applications.
+
+<br />
+
+## Want more? Go PRO!
+
+Start faster with PRO Admin panels provided by [AppSeed](https://appseed.us), Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
+
+| [Premium Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro) | [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) |
+| --- | --- | --- |
+| [![Premium Flask Dashboards - Provided by AppSeed.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)](https://appseed.us/bundles/flask-admin-dashboards-pro) | [![Flask Dashboard Dashkit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-dashkit-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+
+<br />
+<br />
+
 <a href="http://www.bootstrapdash.com/demo/stellar-admin-free/jquery/" target="_blank"><img src="screenshot.jpg"></a>
 
-<h1>Stellar</h1>
-Stellar admin template is completely based on the latest version of Bootstrap 4. Stellar Admin is designed to reflect the simplicity and svelte of the components and UI elements and coded to perfection with well-organized code. This makes it easy to change its looks to anything that you desire on your admin panel. Stellar Admin is a perfect pick to create any kind of simple or complex backend applications or any other web applications.
-<br><br>
-The template is always kept up to date and kept up with the latest technologies. Stellar is a completely responsive admin template that gives you an effortless viewing experience on mobile devices as well as small and large desktops.
+<br />
 
-
-<h1>Credits:</h1>
+## Dashboard Credits
 
 - Bootstrap 4
 - Font Awesome
@@ -14,7 +27,9 @@ The template is always kept up to date and kept up with the latest technologies.
 - Gulp
 - Chart.js
 
-<h1>Browser Support:</h1>
+<br />
+
+## Browser Support
 
 Stellar is designed to work flawlessly with all the latest and modern web browsers.
 
@@ -24,13 +39,16 @@ Stellar is designed to work flawlessly with all the latest and modern web browse
 - Opera (latest)
 - IE10+  
 
-<h1>License Information:</h1>
+<br />
+
+## License Information
 
 
 Stellar is released under MIT license. Stellar is a free Bootstrap 4 admin template developed from BootstrapDash. Feel free to download it, use it, share it, get creative with it.
 
-<h1>How to use Stellar ?</h1>
+<br />
 
+## How to use Stellar
 
 1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/BootstrapDash/Stellar.git in you terminal to get a copy of this template.
 
@@ -48,7 +66,7 @@ Stellar is released under MIT license. Stellar is a free Bootstrap 4 admin templ
 We love your contributions and we welcome them wholeheartedly. We believe the more the merrier.
 To contribute make sure you have a Node.js and npm installed. Now run the command gulp --version. If the command returns with the Gulp version number, it means you have Gulp installed. If not you need to run the command npm install --global gulp-cli to install Gulp.
 
-<h2>Next</h2>
+### Next
 
 After Gulp has been installed, follow the steps below to contribute.
   <br>
@@ -66,3 +84,7 @@ After Gulp has been installed, follow the steps below to contribute.
 Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design.
 Visit
   <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
+  
+  ---
+  [Stellar Admin Dashboard](https://www.bootstrapdash.com/product/stellar-free/?ref=appseed) - provided by **BootstrapDash**
+  
