@@ -15,7 +15,7 @@ Start faster with PRO Admin panels provided by [AppSeed](https://appseed.us), Li
 <br />
 <br />
 
-<a href="http://www.bootstrapdash.com/demo/stellar-admin-free/jquery/" target="_blank"><img src="screenshot.jpg"></a>
+<a href="http://www.bootstrapdash.com/demo/stellar-admin-free/jquery/?ref=appseed" target="_blank"><img src="screenshot.jpg"></a>
 
 <br />
 
