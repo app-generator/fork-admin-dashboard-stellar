@@ -81,11 +81,10 @@ After Gulp has been installed, follow the steps below to contribute.
   <br>
 	5 - Submit a pull request.
 
-
 Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design.
-Visit
-  <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
-  
-  ---
-  [Stellar Admin Dashboard](https://www.bootstrapdash.com/product/stellar-free/?ref=appseed) - provided by **BootstrapDash**
-  
+Visit <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
+
+<br />
+
+---
+[Stellar Admin Dashboard](https://www.bootstrapdash.com/product/stellar-free/?ref=appseed) - provided by **BootstrapDash**
