@@ -60,8 +60,9 @@ Stellar is released under MIT license. Stellar is a free Bootstrap 4 admin templ
 
 5 - Now that your project has now kick-started, all you need to do now is to code, code, and code to your heart's content.
 
-<h1>How to Contribute?:</h1>
+<br />
 
+## How to Contribute?
 
 We love your contributions and we welcome them wholeheartedly. We believe the more the merrier.
 To contribute make sure you have a Node.js and npm installed. Now run the command gulp --version. If the command returns with the Gulp version number, it means you have Gulp installed. If not you need to run the command npm install --global gulp-cli to install Gulp.
